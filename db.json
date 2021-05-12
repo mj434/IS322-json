@@ -9,18 +9,18 @@
   "dateUpdated": "new Date(2020, 2, 12)"
 },
 {
-  "id": "08786666",
-  "name": "Test Reserve Account",
-  "type": "reserve",
-  "balance": 1600,
+  "id": "122666626",
+  "name": "My Savings Account",
+  "type": "saving",
+  "balance": 1400,
   "dateCreated": "new Date(1995, 11, 17)",
   "dateUpdated": "new Date(2020, 2, 12)"
 },
 {
-  "id": "08786666",
-  "name": "Test Reserve Account",
-  "type": "reserve",
-  "balance": 1600,
+  "id": "25466677",
+  "name": "My Checkings Account",
+  "type": "checking",
+  "balance": 1200,
   "dateCreated": "new Date(1995, 11, 17)",
   "dateUpdated": "new Date(2020, 2, 12)"
 }
