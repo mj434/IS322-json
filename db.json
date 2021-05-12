@@ -1,0 +1,28 @@
+{
+  "accounts": [
+{
+  "id": "08786666",
+  "name": "Test Reserve Account",
+  "type": "reserve",
+  "balance": 1600,
+  "dateCreated": "new Date(1995, 11, 17)",
+  "dateUpdated": "new Date(2020, 2, 12)"
+},
+{
+  "id": "08786666",
+  "name": "Test Reserve Account",
+  "type": "reserve",
+  "balance": 1600,
+  "dateCreated": "new Date(1995, 11, 17)",
+  "dateUpdated": "new Date(2020, 2, 12)"
+},
+{
+  "id": "08786666",
+  "name": "Test Reserve Account",
+  "type": "reserve",
+  "balance": 1600,
+  "dateCreated": "new Date(1995, 11, 17)",
+  "dateUpdated": "new Date(2020, 2, 12)"
+}
+    ]
+}
